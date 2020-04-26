@@ -1,0 +1,11 @@
+--2020-04-26 16:12:19--  https://i.insider.com/5cd9dda2021b4c40a54536c4?width=960
+Resolving i.insider.com (i.insider.com)... 151.101.174.217
+Connecting to i.insider.com (i.insider.com)|151.101.174.217|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 490384 (479K) [image/png]
+Saving to: ‘5cd9dda2021b4c40a54536c4?width=960’
+
+         5cd9dda20   0%[               ]       0  --.-KB/s                       5cd9dda202   7%[>              ]  36.15K   179KB/s                      5cd9dda2021   8%[>              ]  42.84K  94.2KB/s                     5cd9dda2021b  10%[>              ]  52.22K  73.6KB/s                    5cd9dda2021b4  22%[==>            ] 109.79K   117KB/s                   5cd9dda2021b4c  29%[===>           ] 143.26K   124KB/s                  5cd9dda2021b4c4  31%[===>           ] 148.61K   109KB/s                 5cd9dda2021b4c40  40%[=====>         ] 195.47K   112KB/s                5cd9dda2021b4c40a  43%[=====>         ] 208.86K   101KB/s               5cd9dda2021b4c40a5  51%[======>        ] 247.69K   109KB/s               cd9dda2021b4c40a54  55%[=======>       ] 265.10K   104KB/s               d9dda2021b4c40a545  61%[========>      ] 293.21K   106KB/s               9dda2021b4c40a5453  63%[========>      ] 303.92K   102KB/s               dda2021b4c40a54536  66%[========>      ] 317.31K  97.4KB/s    eta 2s     da2021b4c40a54536c  72%[=========>     ] 349.44K  99.4KB/s    eta 2s     a2021b4c40a54536c4  77%[==========>    ] 370.87K  96.1KB/s    eta 2s     2021b4c40a54536c4?  82%[===========>   ] 394.97K  94.6KB/s    eta 2s     021b4c40a54536c4?w  87%[============>  ] 419.07K  94.9KB/s    eta 1s     21b4c40a54536c4?wi  93%[=============> ] 447.18K  92.9KB/s    eta 1s     1b4c40a54536c4?wid  97%[=============> ] 465.93K  96.8KB/s    eta 1s     5cd9dda2021b4c40a5 100%[==============>] 478.89K  99.3KB/s    in 5.0s    
+
+2020-04-26 16:12:27 (95.6 KB/s) - ‘5cd9dda2021b4c40a54536c4?width=960’ saved [490384/490384]
+
