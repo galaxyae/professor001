@@ -331,8 +331,12 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background: linear-gradient(0deg, #2a2c39 0%, #33364a 100%);
+  /*background: linear-gradient(0deg, #2a2c39 0%, #33364a 100%);*/
+  background-image: url("https://www.incimages.com/uploaded_files/image/970x450/getty_650326960_2000133320009280216_399129.jpg");
+  background-repeat: no-repeat;
+  background-size: 120% 100%;
   padding: 0;
+  object-fit: cover;
 }
 
 #hero .carousel-container {
